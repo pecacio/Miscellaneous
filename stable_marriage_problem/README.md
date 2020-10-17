@@ -25,7 +25,8 @@ m3-->w4\
 (here the choices of the men are given priority)\
 \
 There can be many solutions to such problems:\
-\n(When the choices of women are given priority)\
+\
+(When the choices of women are given priority)\
 w1-->m2\
 w2-->m3\
 w3-->m1\
