@@ -1,4 +1,4 @@
-# Stable MArriage Problem
+# Stable Marriage Problem
 https://en.wikipedia.org/wiki/Stable_marriage_problem
 It is the problem of finding a stable matchong between two equally sized sets of elements given an ordering of preferences of each element.
 A matching is a bijection from elements from one set to the elements of the other.
@@ -9,4 +9,4 @@ In other words a matching is stable when there does not exist any match (A,B) wh
 
 Example:
 A1,A2,A3,A4 be the males and B1,B2,B3,B4 be the females 
-Frame1:
+
