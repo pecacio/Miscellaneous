@@ -1,5 +1,4 @@
-# Miscellaneous
-#Stable Marriage Problem
+# Stable MArriage Problem
 https://en.wikipedia.org/wiki/Stable_marriage_problem
 It is the problem of finding a stable matchong between two equally sized sets of elements given an ordering of preferences of each element.
 A matching is a bijection from elements from one set to the elements of the other.
