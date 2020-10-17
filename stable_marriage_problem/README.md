@@ -26,6 +26,7 @@ m3-->w4\
 \
 There can be many solutions to such problems:\
 \
+Another such solution is-\
 (When the choices of women are given priority)\
 w1-->m2\
 w2-->m3\
